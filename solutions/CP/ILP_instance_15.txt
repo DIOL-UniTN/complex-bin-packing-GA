@@ -1,0 +1,96 @@
+Bin number M8, day 2020-01-02
+  Items packed: [(1, 401256)]
+  Total weight: 156
+Bin number M5, day 2020-01-03
+  Items packed: [(2, 401256)]
+  Total weight: 12
+Bin number M8, day 2020-01-06
+  Items packed: [(3, 401256)]
+  Total weight: 156
+Bin number M8, day 2020-01-07
+  Items packed: [(4, 401256)]
+  Total weight: 120
+Bin number M8, day 2020-01-08
+  Items packed: [(5, 401256)]
+  Total weight: 132
+Bin number M8, day 2020-01-09
+  Items packed: [(6, 401256)]
+  Total weight: 120
+Bin number M8, day 2020-01-10
+  Items packed: [(7, 401256)]
+  Total weight: 108
+Bin number M8, day 2020-01-13
+  Items packed: [(8, 401256)]
+  Total weight: 120
+Bin number M8, day 2020-01-14
+  Items packed: [(9, 401256)]
+  Total weight: 72
+Bin number M8, day 2020-01-15
+  Items packed: [(10, 401256)]
+  Total weight: 72
+Bin number M8, day 2020-01-16
+  Items packed: [(11, 401256)]
+  Total weight: 60
+Bin number M8, day 2020-01-17
+  Items packed: [(12, 401256)]
+  Total weight: 84
+Bin number M8, day 2020-01-20
+  Items packed: [(13, 401256)]
+  Total weight: 84
+Bin number M8, day 2020-01-21
+  Items packed: [(14, 401256)]
+  Total weight: 48
+Bin number M8, day 2020-01-22
+  Items packed: [(15, 401256)]
+  Total weight: 72
+Bin number M8, day 2020-01-23
+  Items packed: [(16, 401256)]
+  Total weight: 60
+Bin number M8, day 2020-01-24
+  Items packed: [(17, 401256)]
+  Total weight: 60
+Bin number M8, day 2020-01-27
+  Items packed: [(18, 401256)]
+  Total weight: 72
+Bin number M8, day 2020-01-28
+  Items packed: [(19, 401256)]
+  Total weight: 60
+Bin number M8, day 2020-01-29
+  Items packed: [(20, 401256)]
+  Total weight: 60
+Bin number M8, day 2020-01-30
+  Items packed: [(21, 401256)]
+  Total weight: 60
+Bin number M8, day 2020-01-31
+  Items packed: [(22, 401256)]
+  Total weight: 60
+Bin number M9, day 2020-01-31
+  Items packed: [(1, 401261)]
+  Total weight: 30
+Bin number M8, day 2020-02-03
+  Items packed: [(23, 401256)]
+  Total weight: 60
+Bin number M9, day 2020-02-03
+  Items packed: [(2, 401261)]
+  Total weight: 30
+Bin number M8, day 2020-02-04
+  Items packed: [(24, 401256)]
+  Total weight: 60
+Bin number M9, day 2020-02-04
+  Items packed: [(3, 401261)]
+  Total weight: 168
+Bin number M1, day 2020-02-05
+  Items packed: [(1, 401257), (1, 401259)]
+  Total weight: 276
+Bin number M8, day 2020-02-05
+  Items packed: [(25, 401256), (1, 401262)]
+  Total weight: 72
+Bin number M9, day 2020-02-05
+  Items packed: [(4, 401261)]
+  Total weight: 50
+
+Number of days used: 25
+Solution found: optimal
+Time = 6.735496558 milliseconds
+
+Delays: {401256: 0, 401257: 24, 401259: 24, 401261: 21, 401262: 24}

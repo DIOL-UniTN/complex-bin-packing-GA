@@ -1,0 +1,180 @@
+Bin number M10, day 2020-01-02
+  Items packed: [(1, 401377)]
+  Total weight: 420
+Bin number M7, day 2020-01-03
+  Items packed: [(2, 401377)]
+  Total weight: 468
+Bin number M10, day 2020-01-06
+  Items packed: [(3, 401377)]
+  Total weight: 420
+Bin number M10, day 2020-01-07
+  Items packed: [(4, 401377)]
+  Total weight: 402
+Bin number M10, day 2020-01-08
+  Items packed: [(5, 401377)]
+  Total weight: 420
+Bin number M10, day 2020-01-09
+  Items packed: [(6, 401377)]
+  Total weight: 360
+Bin number M10, day 2020-01-10
+  Items packed: [(7, 401377)]
+  Total weight: 12
+Bin number M10, day 2020-01-13
+  Items packed: [(8, 401377)]
+  Total weight: 12
+Bin number M8, day 2020-01-14
+  Items packed: [(1, 401376)]
+  Total weight: 84
+Bin number M10, day 2020-01-14
+  Items packed: [(9, 401377)]
+  Total weight: 414
+Bin number M8, day 2020-01-15
+  Items packed: [(2, 401376)]
+  Total weight: 72
+Bin number M10, day 2020-01-15
+  Items packed: [(10, 401377)]
+  Total weight: 384
+Bin number M8, day 2020-01-16
+  Items packed: [(3, 401376)]
+  Total weight: 60
+Bin number M10, day 2020-01-16
+  Items packed: [(11, 401377)]
+  Total weight: 324
+Bin number M8, day 2020-01-17
+  Items packed: [(4, 401376)]
+  Total weight: 84
+Bin number M10, day 2020-01-17
+  Items packed: [(12, 401377)]
+  Total weight: 342
+Bin number M8, day 2020-01-20
+  Items packed: [(5, 401376)]
+  Total weight: 84
+Bin number M10, day 2020-01-20
+  Items packed: [(13, 401377)]
+  Total weight: 312
+Bin number M7, day 2020-01-21
+  Items packed: [(6, 401376)]
+  Total weight: 348
+Bin number M10, day 2020-01-21
+  Items packed: [(14, 401377)]
+  Total weight: 444
+Bin number M7, day 2020-01-22
+  Items packed: [(7, 401376)]
+  Total weight: 336
+Bin number M10, day 2020-01-22
+  Items packed: [(15, 401377)]
+  Total weight: 324
+Bin number M7, day 2020-01-23
+  Items packed: [(8, 401376)]
+  Total weight: 294
+Bin number M8, day 2020-01-23
+  Items packed: [(1, 401374)]
+  Total weight: 72
+Bin number M10, day 2020-01-23
+  Items packed: [(16, 401377)]
+  Total weight: 300
+Bin number M7, day 2020-01-24
+  Items packed: [(9, 401376)]
+  Total weight: 282
+Bin number M10, day 2020-01-24
+  Items packed: [(17, 401377)]
+  Total weight: 300
+Bin number M7, day 2020-01-27
+  Items packed: [(10, 401376)]
+  Total weight: 258
+Bin number M10, day 2020-01-27
+  Items packed: [(18, 401377)]
+  Total weight: 306
+Bin number M7, day 2020-01-28
+  Items packed: [(11, 401376)]
+  Total weight: 222
+Bin number M10, day 2020-01-28
+  Items packed: [(19, 401377)]
+  Total weight: 264
+Bin number M7, day 2020-01-29
+  Items packed: [(12, 401376)]
+  Total weight: 234
+Bin number M10, day 2020-01-29
+  Items packed: [(20, 401377)]
+  Total weight: 258
+Bin number M7, day 2020-01-30
+  Items packed: [(13, 401376)]
+  Total weight: 192
+Bin number M10, day 2020-01-30
+  Items packed: [(21, 401377)]
+  Total weight: 252
+Bin number M7, day 2020-01-31
+  Items packed: [(14, 401376)]
+  Total weight: 192
+Bin number M10, day 2020-01-31
+  Items packed: [(22, 401377)]
+  Total weight: 264
+Bin number M7, day 2020-02-03
+  Items packed: [(15, 401376)]
+  Total weight: 216
+Bin number M10, day 2020-02-03
+  Items packed: [(23, 401377)]
+  Total weight: 324
+Bin number M7, day 2020-02-04
+  Items packed: [(16, 401376)]
+  Total weight: 192
+Bin number M8, day 2020-02-04
+  Items packed: [(1, 401211)]
+  Total weight: 72
+Bin number M9, day 2020-02-04
+  Items packed: [(1, 400505)]
+  Total weight: 178
+Bin number M10, day 2020-02-04
+  Items packed: [(24, 401377)]
+  Total weight: 288
+Bin number M7, day 2020-02-05
+  Items packed: [(17, 401376)]
+  Total weight: 168
+Bin number M8, day 2020-02-05
+  Items packed: [(2, 401211)]
+  Total weight: 48
+Bin number M9, day 2020-02-05
+  Items packed: [(2, 400505)]
+  Total weight: 60
+Bin number M10, day 2020-02-05
+  Items packed: [(25, 401377)]
+  Total weight: 264
+Bin number M7, day 2020-02-06
+  Items packed: [(18, 401376)]
+  Total weight: 168
+Bin number M8, day 2020-02-06
+  Items packed: [(3, 401211)]
+  Total weight: 48
+Bin number M9, day 2020-02-06
+  Items packed: [(3, 400505)]
+  Total weight: 170
+Bin number M10, day 2020-02-06
+  Items packed: [(26, 401377)]
+  Total weight: 276
+Bin number M7, day 2020-02-07
+  Items packed: [(19, 401376)]
+  Total weight: 168
+Bin number M8, day 2020-02-07
+  Items packed: [(4, 401211)]
+  Total weight: 48
+Bin number M9, day 2020-02-07
+  Items packed: [(4, 400505)]
+  Total weight: 110
+Bin number M10, day 2020-02-07
+  Items packed: [(27, 401377)]
+  Total weight: 228
+Bin number M8, day 2020-02-10
+  Items packed: [(5, 401211), (20, 401376)]
+  Total weight: 60
+Bin number M9, day 2020-02-10
+  Items packed: [(5, 400505)]
+  Total weight: 110
+Bin number M10, day 2020-02-10
+  Items packed: [(28, 401377)]
+  Total weight: 252
+
+Number of days used: 28
+Solution found: optimal
+Time = 9.711891476 milliseconds
+
+Delays: {400505: 23, 401211: 23, 401374: 15, 401376: 8, 401377: 0}

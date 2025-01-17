@@ -1,0 +1,24 @@
+Bin number M8, day 2020-01-02
+  Items packed: [(1, 403408), (1, 403409)]
+  Total weight: 204
+Bin number M9, day 2020-01-02
+  Items packed: [(1, 403406)]
+  Total weight: 254
+Bin number M1, day 2020-01-03
+  Items packed: [(1, 402759)]
+  Total weight: 336
+Bin number M9, day 2020-01-03
+  Items packed: [(2, 403406)]
+  Total weight: 300
+Bin number M9, day 2020-01-06
+  Items packed: [(3, 403406)]
+  Total weight: 360
+Bin number M9, day 2020-01-07
+  Items packed: [(4, 403406)]
+  Total weight: 140
+
+Number of days used: 4
+Solution found: optimal
+Time = 0.016129055 milliseconds
+
+Delays: {402759: 1, 403406: 0, 403408: 0, 403409: 0}

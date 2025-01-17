@@ -1,0 +1,5 @@
+PatientID;CourseID;CreationDate;RTTreatment;NoFractions;SessionTimeFirst;SessionTimeSecond;HasSequentialTreatment;FollowsCourseID;SitePref
+402759;47973;2020-01-02 00:00:00;Protocol54;1;24;0;0;;S3
+403406;51072;2020-01-02 00:00:00;Protocol52;4;30;30;0;;S1
+403408;47262;2020-01-02 00:00:00;Protocol54;1;24;0;0;;S1
+403409;48045;2020-01-02 00:00:00;Protocol54;1;48;0;0;;S1
